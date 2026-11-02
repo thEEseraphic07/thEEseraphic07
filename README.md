@@ -1,7 +1,7 @@
 
 Hi, I'm Isioma Precious 
 
-Junior Web Developer | Frontend & Full-Stack Development
+Junior Web/Software Developer | Frontend & Full-Stack Development
 
 I'm a junior web developer from Nigeria who enjoys building practical web applications and solving problems through code. I have hands-on experience developing personal projects across frontend and backend technologies, and I'm continuously improving my skills.
 
